@@ -1,0 +1,2 @@
+# .github
+Private use organization
